@@ -1,0 +1,41 @@
+
+
+.container {
+    border: 1px solid #a7d7f9;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+}
+
+.box1, .box2 {
+    width: 50%;
+}
+
+.box1 {
+    border: #cef2e0 1px solid;
+    background: #f5fffa;
+    margin: 10px;
+    padding: 5px;
+}
+
+.box2 {    
+    border: #cedff2 1px solid;
+    background: #f5faff;
+
+    margin: 10px;
+    padding: 5px;
+}
+
+.featured {
+    padding: 5px;
+    border: 1px #a3bfb1 solid;
+    background: #cef2e0;
+}
+
+
+.news {
+    padding: 5px;
+    border: 1px #a3bfb1 solid;
+    background: #cedff2;
+    border-color: #a3b0bf;
+}
